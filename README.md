@@ -2,7 +2,7 @@
 node.js完成的命令行问答机器人。
 
 ## 安装
-> git clone https:///xxs0/node-robot.git
+> git clone https://github.com/xxs0/node-robot.git
 
 > cd node-robot
 
